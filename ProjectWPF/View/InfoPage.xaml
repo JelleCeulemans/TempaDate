@@ -1,0 +1,211 @@
+﻿<Page x:Class="ProjectWPF.View.InfoPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ProjectWPF"
+      DataContext="{Binding Source={StaticResource mainViewModelLocator},  Path=InfoPageViewModel}"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="InfoPage"
+      
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      xmlns:ext="clr-namespace:ProjectWPF.Extensions"
+      TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+       TextElement.FontWeight="Regular"
+       TextElement.FontSize="13"
+       TextOptions.TextFormattingMode="Ideal"
+       TextOptions.TextRenderingMode="Auto"
+       Background="{DynamicResource MaterialDesignPaper}"
+       FontFamily="{DynamicResource MaterialDesignFont}">
+
+    <materialDesign:DrawerHost Grid.Row="0">
+        <materialDesign:DrawerHost.LeftDrawerContent>
+            <StackPanel Margin="16">
+                <TextBlock Margin="4" HorizontalAlignment="Center"  Style="{StaticResource MaterialDesignTitleTextBlock}">MENU</TextBlock>
+                <ToggleButton Style="{StaticResource MaterialDesignHamburgerToggleButton}" 
+                                    DockPanel.Dock="Top"
+                                    HorizontalAlignment="Right" Margin="16"
+                                    IsChecked="{Binding ElementName=MenuToggleButton, Path=IsChecked}" 
+                                  Command="{x:Static materialDesign:DrawerHost.CloseDrawerCommand}"
+                        CommandParameter="{x:Static Dock.Left}"/>
+
+                <ext:NavigateButton Style="{DynamicResource MaterialDesignFlatButton}" NavigateUri="View/IndexPage.xaml" >
+                    <materialDesign:PackIcon Kind="HomeOutline" />
+                </ext:NavigateButton>
+                <TreeView MinWidth="220">
+                    <TreeViewItem Header="Weergave">
+                        <ext:NavigateButton  Content="Temperaturen" Style="{DynamicResource MaterialDesignFlatButton}" NavigateUri="View/HomePage.xaml" />
+                        <ext:NavigateButton  Content="Video"  Style="{DynamicResource MaterialDesignFlatButton}" NavigateUri="View/VideoPage.xaml" />
+                    </TreeViewItem>
+                </TreeView>
+                <TreeView MinWidth="220">
+                    <TreeViewItem Header="Editeer">
+                        <ext:NavigateButton  Content="Temperaturen" Style="{DynamicResource MaterialDesignFlatButton}" NavigateUri="View/TemperaturenDetailPage.xaml" />
+                        <ext:NavigateButton  Content="Windkrachten"  Style="{DynamicResource MaterialDesignFlatButton}" NavigateUri="View/WindkrachtenDetailPage.xaml" />
+                        <ext:NavigateButton  Content="Maanden"  Style="{DynamicResource MaterialDesignFlatButton}" NavigateUri="View/MaandenDetailPage.xaml" />
+                    </TreeViewItem>
+                </TreeView>
+
+            </StackPanel>
+        </materialDesign:DrawerHost.LeftDrawerContent>
+        <DockPanel LastChildFill="True">
+            <materialDesign:ColorZone Mode="Accent" Padding="16" DockPanel.Dock="Top">
+                <StackPanel Orientation="Horizontal">
+                    <ToggleButton Style="{DynamicResource MaterialDesignHamburgerToggleButton}" Command="{x:Static materialDesign:DrawerHost.OpenDrawerCommand}"
+                        CommandParameter="{x:Static Dock.Left}"  IsChecked="false"
+                                        x:Name="MenuToggleButton"/>
+                    <TextBlock VerticalAlignment="Center" Margin="16 0 0 0" Style="{StaticResource MaterialDesignHeadlineTextBlock}">TEMPADATE</TextBlock>
+                </StackPanel>
+            </materialDesign:ColorZone>
+
+            <Grid Margin="25">
+                <Grid.RowDefinitions >
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Label Grid.Row="0" Grid.ColumnSpan="2"  HorizontalAlignment="Center" FontSize="30">
+                    <Label.Content>
+                        <TextBlock>
+                            <TextBlock.Text>
+                                <MultiBinding StringFormat="{}{0} {1}">
+                                    <Binding Path="Maanden[0].Naam" />
+                                    <Binding Path="Temperaturen[0].Jaar" />
+                                </MultiBinding>
+                            </TextBlock.Text>
+                        </TextBlock>
+                    </Label.Content>
+                </Label>
+                <Label Grid.Row="1" Grid.Column="0" Content="Temperatuur" HorizontalAlignment="Center" FontSize="30" />
+                <Label Grid.Row="1" Grid.Column="1" Content="Windkracht" HorizontalAlignment="Center" FontSize="30"/>
+                <materialDesign:Card Height="250" Grid.Row="2" Grid.Column="0" Background="{DynamicResource PrimaryHueDarkBrush}"  Foreground="{DynamicResource PrimaryHueDarkForegroundBrush}" Margin="15" Padding="8">
+                    <Grid Margin="15">
+                        <Grid.RowDefinitions >
+                            <RowDefinition Height="35"/>
+                            <RowDefinition Height="35"/>
+                            <RowDefinition Height="35"/>
+                            <RowDefinition Height="35"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="120"/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Label Grid.Row="0" Grid.Column="0" Content="Minimum:" FontSize="15">
+
+                        </Label>
+                        <Label Grid.Row="1" Grid.Column="0" Content="Gemiddelde:" FontSize="15"/>
+                        <Label Grid.Row="2" Grid.Column="0" Content="Maximum:" FontSize="15"/>
+                        <Label Grid.Row="3" Grid.Column="0" Content="Maximum wind:" FontSize="15"/>
+
+                        <Label Grid.Row="0" Grid.Column="1" FontSize="15">
+                            <Label.Content>
+                                <TextBlock>
+                                    <TextBlock.Text>
+                                        <MultiBinding StringFormat="{}{0} °C">
+                                            <Binding Path="Temperaturen[0].Minimum" />
+                                        </MultiBinding>
+                                    </TextBlock.Text>
+                                </TextBlock>
+                            </Label.Content>
+                        </Label>
+                        <Label Grid.Row="1" Grid.Column="1" FontSize="15">
+                            <Label.Content>
+                                <TextBlock>
+                                    <TextBlock.Text>
+                                        <MultiBinding StringFormat="{}{0} °C">
+                                            <Binding Path="Temperaturen[0].Gemiddelde" />
+                                        </MultiBinding>
+                                    </TextBlock.Text>
+                                </TextBlock>
+                            </Label.Content>
+                        </Label>
+                        <Label Grid.Row="2" Grid.Column="1" FontSize="15">
+                            <Label.Content>
+                                <TextBlock>
+                                    <TextBlock.Text>
+                                        <MultiBinding StringFormat="{}{0} °C">
+                                            <Binding Path="Temperaturen[0].Maximum" />
+                                        </MultiBinding>
+                                    </TextBlock.Text>
+                                </TextBlock>
+                            </Label.Content>
+                        </Label>
+                        <Label Grid.Row="3" Grid.Column="1" FontSize="15">
+                            <Label.Content>
+                                <TextBlock>
+                                    <TextBlock.Text>
+                                        <MultiBinding StringFormat="{}{0} km/h">
+                                            <Binding Path="Temperaturen[0].MaxWind" />
+                                        </MultiBinding>
+                                    </TextBlock.Text>
+                                </TextBlock>
+                            </Label.Content>
+                        </Label>
+                    </Grid>
+                </materialDesign:Card>
+
+                <materialDesign:Card Height="250" Grid.Row="2" Grid.Column="1" Background="{DynamicResource PrimaryHueDarkBrush}"  Foreground="{DynamicResource PrimaryHueDarkForegroundBrush}" Margin="15" Padding="8">
+                    <Grid Margin="15">
+                        <Grid.RowDefinitions >
+                            <RowDefinition Height="35"/>
+                            <RowDefinition Height="35"/>
+                            <RowDefinition Height="35"/>
+                            <RowDefinition Height="35"/>
+                            <RowDefinition />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="100"/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Label Grid.Row="0" Grid.Column="0" Content="Kracht:" FontSize="15"/>
+                        <Label Grid.Row="1" Grid.Column="0" Content="Benaming:" FontSize="15"/>
+                        <Label Grid.Row="2" Grid.Column="0" Content="Van:" FontSize="15"/>
+                        <Label Grid.Row="3" Grid.Column="0" Content="Tot:" FontSize="15"/>
+                        <Label Grid.Row="4" Grid.Column="0" Content="Uitwerking:" FontSize="15"/>
+
+                        <Label Grid.Row="0" Grid.Column="1" FontSize="15">
+                            <Label.Content>
+                                <TextBlock>
+                                    <TextBlock.Text>
+                                        <MultiBinding StringFormat="{}{0} Beaufort">
+                                            <Binding Path="Windkrachten[0].Kracht" />
+                                        </MultiBinding>
+                                    </TextBlock.Text>
+                                </TextBlock>
+                            </Label.Content>
+                        </Label>
+                        <Label Grid.Row="1" Grid.Column="1" Content="{Binding Windkrachten[0].Benaming}" FontSize="15"/>
+                        <Label Grid.Row="2" Grid.Column="1" FontSize="15">
+                            <Label.Content>
+                                <TextBlock>
+                                    <TextBlock.Text>
+                                        <MultiBinding StringFormat="{}{0} km/h">
+                                            <Binding Path="Windkrachten[0].Van" />
+                                        </MultiBinding>
+                                    </TextBlock.Text>
+                                </TextBlock>
+                            </Label.Content>
+                        </Label>
+                        <Label Grid.Row="3" Grid.Column="1" FontSize="15">
+                            <Label.Content>
+                                <TextBlock>
+                                    <TextBlock.Text>
+                                        <MultiBinding StringFormat="{}{0} km/h">
+                                            <Binding Path="Windkrachten[0].Tot" />
+                                        </MultiBinding>
+                                    </TextBlock.Text>
+                                </TextBlock>
+                            </Label.Content>
+                        </Label>
+                        <TextBlock TextWrapping="Wrap"  Grid.Row="4" Grid.Column="1" Text="{Binding Windkrachten[0].Uitwerking}"  Foreground="White" FontSize="15"/>
+                    </Grid>
+                </materialDesign:Card>
+            </Grid>
+        </DockPanel>
+    </materialDesign:DrawerHost>
+</Page>

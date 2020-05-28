@@ -1,0 +1,70 @@
+﻿<Window x:Class="ProjectWPF.View.TemperaturenEditeerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjectWPF.View"
+        DataContext="{Binding Source={StaticResource mainViewModelLocator},  Path=TemperaturenEditeerWindowViewModel}"
+        mc:Ignorable="d"
+        Title="TempaDate" Height="300" Width="500" Icon="/Resources/icon.png" WindowStartupLocation="CenterScreen" WindowStyle="None" AllowsTransparency="True"        
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+       TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+       TextElement.FontWeight="Regular"
+       TextElement.FontSize="13"
+       TextOptions.TextFormattingMode="Ideal"
+       TextOptions.TextRenderingMode="Auto"
+       Background="{DynamicResource MaterialDesignPaper}"
+       FontFamily="{DynamicResource MaterialDesignFont}">
+    <Border CornerRadius="15" BorderThickness="1" BorderBrush="White" Background="{DynamicResource MaterialDesignPaper}">
+        <Grid>
+            <Grid Margin="15">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition Width="175"/>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition />
+                        <ColumnDefinition />
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                    </Grid.RowDefinitions>
+                    <Label  Grid.Column="0" Grid.Row="0" Content="Minimum:" FontWeight="Bold" FontSize="15" VerticalAlignment="Center" Margin="20 0 0 0"/>
+                    <Label Grid.Column="0" Grid.Row="1" Content="Gemiddelde:" FontWeight="Bold" FontSize="15" VerticalAlignment="Center" Margin="20 0 0 0"/>
+                    <Label Grid.Column="0" Grid.Row="2" Content="Maximum:" FontWeight="Bold" FontSize="15" VerticalAlignment="Center" Margin="20 0 0 0"/>
+                    <Label Grid.Column="0" Grid.Row="3" Content="Maand ID:" FontWeight="Bold" FontSize="15" VerticalAlignment="Center" Margin="20 0 0 0"/>
+                    <Label Grid.Column="0" Grid.Row="4" Content="Jaar:" FontWeight="Bold" FontSize="15" VerticalAlignment="Center" Margin="20 0 0 0"/>
+                    <Label Grid.Column="0" Grid.Row="5" Content="Maximale wind:" FontWeight="Bold" FontSize="15" VerticalAlignment="Center" Margin="20 0 0 0"/>
+                    <Label Grid.Column="0" Grid.Row="6" Content="Windkracht ID:" FontWeight="Bold" FontSize="15" VerticalAlignment="Center" Margin="20 0 0 0"/>
+                    <TextBox Grid.Column="1" Grid.Row="0" Text="{Binding SelectedTemperatuur.Minimum}" Height="30" FontSize="15" Width="200" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                    <TextBox Grid.Column="1" Grid.Row="1" Text="{Binding SelectedTemperatuur.Gemiddelde}" Height="30" FontSize="15" Width="200" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                    <TextBox Grid.Column="1" Grid.Row="2" Text="{Binding SelectedTemperatuur.Maximum}" Height="30" FontSize="15" Width="200" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                    <TextBox Grid.Column="1" Grid.Row="3" Text="{Binding SelectedTemperatuur.MaandId}" Height="30" FontSize="15" Width="200" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                    <TextBox Grid.Column="1" Grid.Row="4" Text="{Binding SelectedTemperatuur.Jaar}" Height="30" FontSize="15" Width="200" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                    <TextBox Grid.Column="1" Grid.Row="5" Text="{Binding SelectedTemperatuur.MaxWind}" Height="30" FontSize="15" Width="200" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                    <TextBox Grid.Column="1" Grid.Row="6" Text="{Binding SelectedTemperatuur.WindkrachtId}" Height="30" FontSize="15" Width="200" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                </Grid>
+                <Grid Grid.Column="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Button Grid.Row="0" Style="{StaticResource MaterialDesignFloatingActionAccentButton}" ToolTip="Toevoegen/wijzigen" Command="{Binding UpdateCommand}">
+                        <materialDesign:PackIcon  Kind="Check" Height="24"  Width="24"/>
+                    </Button>
+                    <Button Grid.Row="1" Style="{StaticResource MaterialDesignFloatingActionAccentButton}" ToolTip="Verwijderen/Sluiten" Command="{Binding VerwijderCommand}">
+                        <materialDesign:PackIcon  Kind="TrashCanOutline" Height="24"  Width="24"/>
+                    </Button>
+                </Grid>
+            </Grid>
+
+        </Grid>
+    </Border>
+</Window>

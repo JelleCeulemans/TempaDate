@@ -1,0 +1,146 @@
+﻿<Page x:Class="ProjectWPF.View.IndexPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ProjectWPF.View"
+      xmlns:ext="clr-namespace:ProjectWPF.Extensions"
+      
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+     TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+     TextElement.FontWeight="Regular"
+     TextElement.FontSize="13"
+     TextOptions.TextFormattingMode="Ideal"
+     TextOptions.TextRenderingMode="Auto"
+     Background="{DynamicResource MaterialDesignPaper}"
+     FontFamily="{DynamicResource MaterialDesignFont}"
+      mc:Ignorable="d" 
+      Title="IndexPage">
+
+    <materialDesign:DrawerHost Grid.Row="0">
+        <materialDesign:DrawerHost.LeftDrawerContent>
+            <StackPanel Margin="16">
+                <TextBlock Margin="4" HorizontalAlignment="Center"  Style="{StaticResource MaterialDesignTitleTextBlock}">MENU</TextBlock>
+                <ToggleButton Style="{StaticResource MaterialDesignHamburgerToggleButton}" 
+                                    DockPanel.Dock="Top"
+                                    HorizontalAlignment="Right" Margin="16"
+                                    IsChecked="{Binding ElementName=MenuToggleButton, Path=IsChecked}" 
+                                  Command="{x:Static materialDesign:DrawerHost.CloseDrawerCommand}"
+                        CommandParameter="{x:Static Dock.Left}"/>
+
+                <ext:NavigateButton Style="{DynamicResource MaterialDesignFlatButton}" NavigateUri="View/IndexPage.xaml" >
+                    <materialDesign:PackIcon Kind="HomeOutline" />
+                </ext:NavigateButton>
+                <TreeView MinWidth="220">
+                    <TreeViewItem Header="Weergave">
+                        <ext:NavigateButton  Content="Temperaturen" Style="{DynamicResource MaterialDesignFlatButton}" NavigateUri="View/HomePage.xaml" />
+                        <ext:NavigateButton  Content="Video"  Style="{DynamicResource MaterialDesignFlatButton}" NavigateUri="View/VideoPage.xaml" />
+                    </TreeViewItem>
+                </TreeView>
+                <TreeView MinWidth="220">
+                    <TreeViewItem Header="Editeer">
+                        <ext:NavigateButton  Content="Temperaturen" Style="{DynamicResource MaterialDesignFlatButton}" NavigateUri="View/TemperaturenDetailPage.xaml" />
+                        <ext:NavigateButton  Content="Windkrachten"  Style="{DynamicResource MaterialDesignFlatButton}" NavigateUri="View/WindkrachtenDetailPage.xaml" />
+                        <ext:NavigateButton  Content="Maanden"  Style="{DynamicResource MaterialDesignFlatButton}" NavigateUri="View/MaandenDetailPage.xaml" />
+                    </TreeViewItem>
+                </TreeView>
+
+            </StackPanel>
+        </materialDesign:DrawerHost.LeftDrawerContent>
+        <DockPanel LastChildFill="True">
+            <materialDesign:ColorZone Mode="Accent" Padding="16" DockPanel.Dock="Top">
+                <StackPanel Orientation="Horizontal">
+                    <ToggleButton Style="{DynamicResource MaterialDesignHamburgerToggleButton}" Command="{x:Static materialDesign:DrawerHost.OpenDrawerCommand}"
+                        CommandParameter="{x:Static Dock.Left}"  IsChecked="false"
+                                        x:Name="MenuToggleButton"/>
+                    <TextBlock VerticalAlignment="Center" Margin="16 0 0 0" Style="{StaticResource MaterialDesignHeadlineTextBlock}">TEMPADATE</TextBlock>
+                </StackPanel>
+            </materialDesign:ColorZone>
+
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <materialDesign:Card  Background="{DynamicResource MaterialDesignBackground}" Grid.Column="1" Margin="25">
+                    <StackPanel>
+                        <Expander  HorizontalAlignment="Stretch" Header="Weergave">
+                            <StackPanel Orientation="Vertical" TextBlock.Foreground="{DynamicResource MaterialDesignBody}" Margin="24,8,24,16">
+                                <TextBlock Text="Weergeven data" />
+                                <TextBlock Opacity=".68"  Text="Hier kan je kiezen uit Temperaturen en Video. Bij Temperaturen kan je alle data raadplegen, namelijk de gegevens kunnen geraadpleegd worden met de temperaturen en de bijbehorende windkracht per maand, hoe de temperatuur voor die maand was over alle jaren, welke temperaturen het waren in dat jaar en alle temperaturen. Bij Video kan je een filmpje bekijken over de opwarming van de aarde." TextWrapping="Wrap" />
+                            </StackPanel>
+                        </Expander>
+
+                        <Border Background="{DynamicResource MaterialDesignDivider}" Height="1"  HorizontalAlignment="Stretch"  SnapsToDevicePixels="True" />
+                        <Expander  HorizontalAlignment="Stretch"  Header="Editeer">
+                            <StackPanel Orientation="Vertical" TextBlock.Foreground="{DynamicResource MaterialDesignBody}" Margin="24,8,24,16">
+                                <TextBlock Text="Aanpassen data" />
+                                <TextBlock Opacity=".68" Text="Hier kan je kiezen uit Temperaturen, Windkrachten en Maanden. Hier kunnen alle data worden aangpast, toegevoegd of verwijderd." TextWrapping="Wrap" />
+                            </StackPanel>
+                        </Expander>
+                    </StackPanel>
+                </materialDesign:Card>
+
+                <GroupBox Header="TempaDate" Margin="25" Grid.Column="0">
+                    <TextBlock TextWrapping="Wrap"  Style="{StaticResource MaterialDesignSubheadingTextBlock}">
+                      <BulletDecorator Width="Auto">
+                        <BulletDecorator.Bullet>
+                            <Ellipse Fill="Teal" Width="10" Height="10"/>
+                        </BulletDecorator.Bullet>
+                        <TextBlock>
+                            <TextBlock TextWrapping="Wrap" Margin="15 0 0 0" Text="TempaDate is een applicatie over de opwarming van de aarde." />
+                        </TextBlock>
+                    </BulletDecorator>
+                        <LineBreak />
+                        <LineBreak />
+                      <BulletDecorator Width="Auto">
+                        <BulletDecorator.Bullet>
+                            <Ellipse Fill="Teal" Width="10" Height="10"/>
+                        </BulletDecorator.Bullet>
+                        <TextBlock>
+                            <TextBlock TextWrapping="Wrap" Margin="15 0 0 0" Text="Op deze applicatie kan alle data worden geraadpleegd en bewerkt." />
+                        </TextBlock>
+                    </BulletDecorator>
+                        <LineBreak />
+                        <LineBreak />
+                        <BulletDecorator Width="Auto">
+                        <BulletDecorator.Bullet>
+                            <Ellipse Fill="Teal" Width="10" Height="10" />
+                        </BulletDecorator.Bullet>
+                        <TextBlock>
+                            <TextBlock TextWrapping="Wrap" Margin="15 0 0 0" Text="De gegevens kunnen geraadpleegd worden met de temperaturen en de bijbehorende windkracht per maand, hoe de temperatuur voor die maand was over alle jaren, welke temperaturen het waren in dat jaar en alle temperaturen" />
+                        </TextBlock>
+                    </BulletDecorator>
+                         <LineBreak />
+                        <LineBreak />
+                    <BulletDecorator Width="Auto">
+                        <BulletDecorator.Bullet>
+                            <Ellipse Fill="Teal" Width="10" Height="10" />
+                        </BulletDecorator.Bullet>
+                        <TextBlock>
+                            <TextBlock TextWrapping="Wrap" Margin="15 0 0 0" Text="Standaard is er voor 21 jaar temperaturen aanwezig van België." />
+                        </TextBlock>
+                    </BulletDecorator>
+                         <LineBreak />
+                        <LineBreak />
+                         <BulletDecorator Width="Auto">
+                        <BulletDecorator.Bullet>
+                            <Ellipse Fill="Teal" Width="10" Height="10" />
+                        </BulletDecorator.Bullet>
+                        <TextBlock>
+                            <TextBlock TextWrapping="Wrap" Margin="15 0 0 0" Text="De Temperaturen, Windkrachten en Maanden kunnen aangapast, toegevoegd en verwijderd worden." />
+                        </TextBlock>
+                    </BulletDecorator>
+                        </TextBlock>
+                </GroupBox>
+            </Grid>
+        </DockPanel>
+    </materialDesign:DrawerHost>
+
+
+
+
+
+
+</Page>

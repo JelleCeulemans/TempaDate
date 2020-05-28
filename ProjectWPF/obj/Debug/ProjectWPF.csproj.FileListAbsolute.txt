@@ -1,0 +1,690 @@
+D:\LesWpf\ProjectWPF\ProjectWPF\bin\Debug\ProjectWPF.exe.config
+D:\LesWpf\ProjectWPF\ProjectWPF\bin\Debug\ProjectWPF.exe
+D:\LesWpf\ProjectWPF\ProjectWPF\bin\Debug\ProjectWPF.pdb
+D:\LesWpf\ProjectWPF\ProjectWPF\bin\Debug\Dapper.dll
+D:\LesWpf\ProjectWPF\ProjectWPF\bin\Debug\OxyPlot.dll
+D:\LesWpf\ProjectWPF\ProjectWPF\bin\Debug\OxyPlot.Wpf.dll
+D:\LesWpf\ProjectWPF\ProjectWPF\bin\Debug\Dapper.xml
+D:\LesWpf\ProjectWPF\ProjectWPF\bin\Debug\OxyPlot.pdb
+D:\LesWpf\ProjectWPF\ProjectWPF\bin\Debug\OxyPlot.xml
+D:\LesWpf\ProjectWPF\ProjectWPF\bin\Debug\OxyPlot.Wpf.pdb
+D:\LesWpf\ProjectWPF\ProjectWPF\bin\Debug\OxyPlot.Wpf.xml
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\View\AllChartPage.g.cs
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\View\ChartPage.g.cs
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\View\EditeerPage.g.cs
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\View\HomePage.g.cs
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\View\IndexPage.g.cs
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\View\InfoPage.g.cs
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\View\MaandenDetailPage.g.cs
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\View\MainWindow.g.cs
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\View\TemperaturenDetailPage.g.cs
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\View\VideoPage.g.cs
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\View\WindkrachtenDetailPage.g.cs
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\View\WindkrachtenPage.g.cs
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\App.g.cs
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF_Content.g.cs
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF_MarkupCompile.cache
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF_MarkupCompile.lref
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\App.baml
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\View\AllChartPage.baml
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\View\ChartPage.baml
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\View\EditeerPage.baml
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\View\HomePage.baml
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\View\IndexPage.baml
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\View\InfoPage.baml
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\View\MaandenDetailPage.baml
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\View\MainWindow.baml
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\View\TemperaturenDetailPage.baml
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\View\VideoPage.baml
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\View\WindkrachtenDetailPage.baml
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\View\WindkrachtenPage.baml
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.g.resources
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.Properties.Resources.resources
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csproj.GenerateResource.cache
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csproj.CoreCompileInputs.cache
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csproj.CopyComplete
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.exe
+D:\LesWpf\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.pdb
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\bin\Debug\ProjectWPF.exe.config
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\bin\Debug\ProjectWPF.exe
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\bin\Debug\ProjectWPF.pdb
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\bin\Debug\Dapper.dll
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\bin\Debug\OxyPlot.dll
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\bin\Debug\OxyPlot.Wpf.dll
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\bin\Debug\Dapper.xml
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\bin\Debug\OxyPlot.pdb
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\bin\Debug\OxyPlot.xml
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\bin\Debug\OxyPlot.Wpf.pdb
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\bin\Debug\OxyPlot.Wpf.xml
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csprojAssemblyReference.cache
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\AllChartPage.g.cs
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\ChartPage.g.cs
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\EditeerPage.g.cs
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\HomePage.g.cs
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\IndexPage.g.cs
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\InfoPage.g.cs
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\MaandenDetailPage.g.cs
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\MainWindow.g.cs
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\TemperaturenDetailPage.g.cs
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\VideoPage.g.cs
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\WindkrachtenDetailPage.g.cs
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\WindkrachtenPage.g.cs
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\App.g.cs
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF_Content.g.cs
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF_MarkupCompile.cache
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF_MarkupCompile.lref
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\App.baml
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\AllChartPage.baml
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\ChartPage.baml
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\EditeerPage.baml
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\HomePage.baml
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\IndexPage.baml
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\InfoPage.baml
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\MaandenDetailPage.baml
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\MainWindow.baml
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\TemperaturenDetailPage.baml
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\VideoPage.baml
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\WindkrachtenDetailPage.baml
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\WindkrachtenPage.baml
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.g.resources
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.Properties.Resources.resources
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csproj.GenerateResource.cache
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csproj.CoreCompileInputs.cache
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csproj.CopyComplete
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.exe
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.pdb
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\MijnStyleDictionary.baml
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\MaandenEditeerWindow.g.cs
+D:\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\MaandenEditeerWindow.baml
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\bin\Debug\ProjectWPF.exe.config
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\bin\Debug\ProjectWPF.exe
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\bin\Debug\ProjectWPF.pdb
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\bin\Debug\Dapper.dll
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\bin\Debug\OxyPlot.dll
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\bin\Debug\OxyPlot.Wpf.dll
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\bin\Debug\Dapper.xml
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\bin\Debug\OxyPlot.pdb
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\bin\Debug\OxyPlot.xml
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\bin\Debug\OxyPlot.Wpf.pdb
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\bin\Debug\OxyPlot.Wpf.xml
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csprojAssemblyReference.cache
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\AllChartPage.g.cs
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\ChartPage.g.cs
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\EditeerPage.g.cs
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\HomePage.g.cs
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\IndexPage.g.cs
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\InfoPage.g.cs
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\MaandenDetailPage.g.cs
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\MaandenEditeerWindow.g.cs
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\MainWindow.g.cs
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\TemperaturenDetailPage.g.cs
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\VideoPage.g.cs
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\WindkrachtenDetailPage.g.cs
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\WindkrachtenPage.g.cs
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\App.g.cs
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF_Content.g.cs
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF_MarkupCompile.cache
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF_MarkupCompile.lref
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\App.baml
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\MijnStyleDictionary.baml
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\AllChartPage.baml
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\ChartPage.baml
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\EditeerPage.baml
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\HomePage.baml
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\IndexPage.baml
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\InfoPage.baml
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\MaandenDetailPage.baml
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\MaandenEditeerWindow.baml
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\MainWindow.baml
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\TemperaturenDetailPage.baml
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\VideoPage.baml
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\WindkrachtenDetailPage.baml
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\View\WindkrachtenPage.baml
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.g.resources
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.Properties.Resources.resources
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csproj.GenerateResource.cache
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csproj.CoreCompileInputs.cache
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csproj.CopyComplete
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.exe
+D:\From D\LesWpf\Project\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.pdb
+F:\Backup\ProjectWPF\ProjectWPF\bin\Debug\ProjectWPF.exe.config
+F:\Backup\ProjectWPF\ProjectWPF\bin\Debug\ProjectWPF.exe
+F:\Backup\ProjectWPF\ProjectWPF\bin\Debug\ProjectWPF.pdb
+F:\Backup\ProjectWPF\ProjectWPF\bin\Debug\Dapper.dll
+F:\Backup\ProjectWPF\ProjectWPF\bin\Debug\OxyPlot.dll
+F:\Backup\ProjectWPF\ProjectWPF\bin\Debug\OxyPlot.Wpf.dll
+F:\Backup\ProjectWPF\ProjectWPF\bin\Debug\Dapper.xml
+F:\Backup\ProjectWPF\ProjectWPF\bin\Debug\OxyPlot.pdb
+F:\Backup\ProjectWPF\ProjectWPF\bin\Debug\OxyPlot.xml
+F:\Backup\ProjectWPF\ProjectWPF\bin\Debug\OxyPlot.Wpf.pdb
+F:\Backup\ProjectWPF\ProjectWPF\bin\Debug\OxyPlot.Wpf.xml
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csprojAssemblyReference.cache
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\View\AllChartPage.g.cs
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\View\ChartPage.g.cs
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\View\EditeerPage.g.cs
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\View\HomePage.g.cs
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\View\IndexPage.g.cs
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\View\InfoPage.g.cs
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\View\MaandenDetailPage.g.cs
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\View\MaandenEditeerWindow.g.cs
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\View\MainWindow.g.cs
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\View\TemperaturenDetailPage.g.cs
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\View\VideoPage.g.cs
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\View\WindkrachtenDetailPage.g.cs
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\View\WindkrachtenPage.g.cs
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\App.g.cs
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF_Content.g.cs
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF_MarkupCompile.cache
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF_MarkupCompile.lref
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\App.baml
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\MijnStyleDictionary.baml
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\View\AllChartPage.baml
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\View\ChartPage.baml
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\View\EditeerPage.baml
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\View\HomePage.baml
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\View\IndexPage.baml
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\View\InfoPage.baml
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\View\MaandenDetailPage.baml
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\View\MaandenEditeerWindow.baml
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\View\MainWindow.baml
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\View\TemperaturenDetailPage.baml
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\View\VideoPage.baml
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\View\WindkrachtenDetailPage.baml
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\View\WindkrachtenPage.baml
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.g.resources
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.Properties.Resources.resources
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csproj.GenerateResource.cache
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csproj.CoreCompileInputs.cache
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csproj.CopyComplete
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.exe
+F:\Backup\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.pdb
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\bin\Debug\ProjectWPF.exe.config
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\bin\Debug\ProjectWPF.exe
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\bin\Debug\ProjectWPF.pdb
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\bin\Debug\Dapper.dll
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\bin\Debug\LiveCharts.dll
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\bin\Debug\OxyPlot.dll
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\bin\Debug\Dapper.xml
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\bin\Debug\LiveCharts.pdb
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\bin\Debug\LiveCharts.xml
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\bin\Debug\OxyPlot.pdb
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\bin\Debug\OxyPlot.xml
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\View\AllChartPage.g.cs
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\View\ChartPage.g.cs
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\View\HomePage.g.cs
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\View\IndexPage.g.cs
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\View\InfoPage.g.cs
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\View\MaandenDetailPage.g.cs
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\View\MaandenEditeerWindow.g.cs
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\View\MainWindow.g.cs
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\View\TemperaturenDetailPage.g.cs
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\View\TemperaturenEditeerWindow.g.cs
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\View\VideoPage.g.cs
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\View\WindkrachtenDetailPage.g.cs
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\View\WindkrachtenEditeerWindow.g.cs
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\App.g.cs
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF_Content.g.cs
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF_MarkupCompile.cache
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF_MarkupCompile.lref
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\App.baml
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\View\AllChartPage.baml
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\View\ChartPage.baml
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\View\HomePage.baml
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\View\IndexPage.baml
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\View\InfoPage.baml
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\View\MaandenDetailPage.baml
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\View\MaandenEditeerWindow.baml
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\View\MainWindow.baml
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\View\TemperaturenDetailPage.baml
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\View\TemperaturenEditeerWindow.baml
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\View\VideoPage.baml
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\View\WindkrachtenDetailPage.baml
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\View\WindkrachtenEditeerWindow.baml
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.g.resources
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.Properties.Resources.resources
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csproj.GenerateResource.cache
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csproj.CoreCompileInputs.cache
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csproj.CopyComplete
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.exe
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.pdb
+C:\Users\Jelle Ceulemans\Documents\School\2ITF\Semester2\WPF\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csprojAssemblyReference.cache
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\ProjectWPF.exe.config
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\ProjectWPF.exe
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\ProjectWPF.pdb
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\Dapper.dll
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\LiveCharts.dll
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\OxyPlot.dll
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\Dapper.xml
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\LiveCharts.pdb
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\LiveCharts.xml
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\OxyPlot.pdb
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\OxyPlot.xml
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.csprojAssemblyReference.cache
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\AllChartPage.g.cs
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\ChartPage.g.cs
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\HomePage.g.cs
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\IndexPage.g.cs
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\InfoPage.g.cs
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\MaandenDetailPage.g.cs
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\MaandenEditeerWindow.g.cs
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\MainWindow.g.cs
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\TemperaturenDetailPage.g.cs
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\TemperaturenEditeerWindow.g.cs
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\VideoPage.g.cs
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\WindkrachtenDetailPage.g.cs
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\WindkrachtenEditeerWindow.g.cs
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\App.g.cs
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF_Content.g.cs
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF_MarkupCompile.cache
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF_MarkupCompile.lref
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\App.baml
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\AllChartPage.baml
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\ChartPage.baml
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\HomePage.baml
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\IndexPage.baml
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\InfoPage.baml
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\MaandenDetailPage.baml
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\MaandenEditeerWindow.baml
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\MainWindow.baml
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\TemperaturenDetailPage.baml
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\TemperaturenEditeerWindow.baml
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\VideoPage.baml
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\WindkrachtenDetailPage.baml
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\WindkrachtenEditeerWindow.baml
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.g.resources
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.Properties.Resources.resources
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.csproj.GenerateResource.cache
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.csproj.CoreCompileInputs.cache
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.csproj.CopyComplete
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.exe
+C:\Users\Jelle Ceulemans\Documents\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.pdb
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\ProjectWPF.exe.config
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\ProjectWPF.exe
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\ProjectWPF.pdb
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\Dapper.dll
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\LiveCharts.dll
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\LiveCharts.Wpf.dll
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\MaterialDesignColors.dll
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\OxyPlot.dll
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\OxyPlot.Wpf.dll
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\Dapper.xml
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\LiveCharts.pdb
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\LiveCharts.xml
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\LiveCharts.Wpf.pdb
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\LiveCharts.Wpf.xml
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\OxyPlot.pdb
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\OxyPlot.xml
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\OxyPlot.Wpf.pdb
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\OxyPlot.Wpf.xml
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.csprojResolveAssemblyReference.cache
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\AllChartPage.g.cs
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\ChartPage.g.cs
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\HomePage.g.cs
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\IndexPage.g.cs
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\InfoPage.g.cs
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\MaandenDetailPage.g.cs
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\MaandenEditeerWindow.g.cs
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\MainWindow.g.cs
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\TemperaturenDetailPage.g.cs
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\TemperaturenEditeerWindow.g.cs
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\VideoPage.g.cs
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\WindkrachtenDetailPage.g.cs
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\WindkrachtenEditeerWindow.g.cs
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\App.g.cs
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF_Content.g.cs
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF_MarkupCompile.cache
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF_MarkupCompile.lref
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\App.baml
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\AllChartPage.baml
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\ChartPage.baml
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\HomePage.baml
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\IndexPage.baml
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\InfoPage.baml
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\MaandenDetailPage.baml
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\MaandenEditeerWindow.baml
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\MainWindow.baml
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\TemperaturenDetailPage.baml
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\TemperaturenEditeerWindow.baml
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\VideoPage.baml
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\WindkrachtenDetailPage.baml
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\WindkrachtenEditeerWindow.baml
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.g.resources
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.Properties.Resources.resources
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.csproj.GenerateResource.Cache
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.csproj.CoreCompileInputs.cache
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.exe
+D:\MEGA\2ITF\Semester2\WPF\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.pdb
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\ProjectWPF.exe.config
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\ProjectWPF.exe
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\ProjectWPF.pdb
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\Dapper.dll
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\LiveCharts.dll
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\OxyPlot.dll
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\Dapper.xml
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\LiveCharts.pdb
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\LiveCharts.xml
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\OxyPlot.pdb
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\OxyPlot.xml
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.csprojAssemblyReference.cache
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\AllChartPage.g.cs
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\ChartPage.g.cs
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\HomePage.g.cs
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\IndexPage.g.cs
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\InfoPage.g.cs
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\MaandenDetailPage.g.cs
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\MaandenEditeerWindow.g.cs
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\MainWindow.g.cs
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\TemperaturenDetailPage.g.cs
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\TemperaturenEditeerWindow.g.cs
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\VideoPage.g.cs
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\WindkrachtenDetailPage.g.cs
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\WindkrachtenEditeerWindow.g.cs
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\App.g.cs
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF_Content.g.cs
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF_MarkupCompile.cache
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF_MarkupCompile.lref
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\App.baml
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\AllChartPage.baml
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\ChartPage.baml
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\HomePage.baml
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\IndexPage.baml
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\InfoPage.baml
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\MaandenDetailPage.baml
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\MaandenEditeerWindow.baml
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\MainWindow.baml
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\TemperaturenDetailPage.baml
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\TemperaturenEditeerWindow.baml
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\VideoPage.baml
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\WindkrachtenDetailPage.baml
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\WindkrachtenEditeerWindow.baml
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.g.resources
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.Properties.Resources.resources
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.csproj.GenerateResource.cache
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.csproj.CoreCompileInputs.cache
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.csproj.CopyComplete
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.exe
+C:\Users\Jelle Ceulemans\Desktop\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.pdb
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\ProjectWPF.exe.config
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\ProjectWPF.exe
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\ProjectWPF.pdb
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\Dapper.dll
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\LiveCharts.dll
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\OxyPlot.dll
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\Dapper.xml
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\LiveCharts.pdb
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\LiveCharts.xml
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\OxyPlot.pdb
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\OxyPlot.xml
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\AllChartPage.g.cs
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\ChartPage.g.cs
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\HomePage.g.cs
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\IndexPage.g.cs
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\InfoPage.g.cs
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\MaandenDetailPage.g.cs
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\MaandenEditeerWindow.g.cs
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\MainWindow.g.cs
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\TemperaturenDetailPage.g.cs
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\TemperaturenEditeerWindow.g.cs
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\VideoPage.g.cs
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\WindkrachtenDetailPage.g.cs
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\WindkrachtenEditeerWindow.g.cs
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\App.g.cs
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF_Content.g.cs
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF_MarkupCompile.cache
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF_MarkupCompile.lref
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\App.baml
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\AllChartPage.baml
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\ChartPage.baml
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\HomePage.baml
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\IndexPage.baml
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\InfoPage.baml
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\MaandenDetailPage.baml
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\MaandenEditeerWindow.baml
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\MainWindow.baml
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\TemperaturenDetailPage.baml
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\TemperaturenEditeerWindow.baml
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\VideoPage.baml
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\WindkrachtenDetailPage.baml
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\WindkrachtenEditeerWindow.baml
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.g.resources
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.Properties.Resources.resources
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.csproj.GenerateResource.cache
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.csproj.CoreCompileInputs.cache
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.csproj.CopyComplete
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.exe
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.pdb
+C:\Users\Aiko\Documents\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.csprojAssemblyReference.cache
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\ProjectWPF.exe.config
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\ProjectWPF.exe
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\ProjectWPF.pdb
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\netstandard.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.AppContext.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Collections.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Collections.Specialized.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.ComponentModel.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Console.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Data.Common.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Globalization.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.IO.Compression.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.IO.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.IO.FileSystem.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.IO.Pipes.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Linq.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Linq.Expressions.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Linq.Parallel.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Linq.Queryable.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Net.Http.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Net.NameResolution.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Net.Ping.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Net.Primitives.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Net.Requests.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Net.Security.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Net.Sockets.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Net.WebSockets.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.ObjectModel.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Reflection.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Resources.Reader.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Resources.Writer.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Runtime.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Runtime.Handles.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Security.Claims.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Security.Principal.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Security.SecureString.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Text.Encoding.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Threading.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Threading.Tasks.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Threading.Thread.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Threading.Timer.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.ValueTuple.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Xml.XDocument.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Xml.XPath.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\Dapper.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\Google.Protobuf.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\LiveCharts.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\MySql.Data.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\OxyPlot.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\Renci.SshNet.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Buffers.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Memory.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\Zstandard.Net.dll
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\Dapper.xml
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\Google.Protobuf.xml
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\LiveCharts.pdb
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\LiveCharts.xml
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\MySql.Data.xml
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\OxyPlot.pdb
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\OxyPlot.xml
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\Renci.SshNet.xml
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Buffers.xml
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Memory.xml
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.exe.config
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\AllChartPage.g.cs
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\ChartPage.g.cs
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\HomePage.g.cs
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\IndexPage.g.cs
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\InfoPage.g.cs
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\MaandenDetailPage.g.cs
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\MaandenEditeerWindow.g.cs
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\MainWindow.g.cs
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\TemperaturenDetailPage.g.cs
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\TemperaturenEditeerWindow.g.cs
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\VideoPage.g.cs
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\WindkrachtenDetailPage.g.cs
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\WindkrachtenEditeerWindow.g.cs
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\App.g.cs
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF_Content.g.cs
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF_MarkupCompile.cache
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF_MarkupCompile.lref
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\App.baml
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\AllChartPage.baml
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\ChartPage.baml
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\HomePage.baml
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\IndexPage.baml
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\InfoPage.baml
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\MaandenDetailPage.baml
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\MaandenEditeerWindow.baml
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\MainWindow.baml
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\TemperaturenDetailPage.baml
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\TemperaturenEditeerWindow.baml
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\VideoPage.baml
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\WindkrachtenDetailPage.baml
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\View\WindkrachtenEditeerWindow.baml
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.g.resources
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.Properties.Resources.resources
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.csproj.GenerateResource.cache
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.csproj.CoreCompileInputs.cache
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.csproj.CopyComplete
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.exe
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\obj\Debug\ProjectWPF.pdb
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\Resources\opwarming.mp4
+C:\Users\jelle\Documents\GitHub\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\WPFproject_JelleCeulemans\ProjectWPF_JelleCeulemans\ProjectWPF\bin\Debug\Resources\opwarming.wmv

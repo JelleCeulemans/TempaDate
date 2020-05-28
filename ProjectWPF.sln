@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectWPF", "ProjectWPF\ProjectWPF.csproj", "{BE1653B0-605B-450A-A6BE-C36CA1921B86}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TempaDate", "TempaDate\TempaDate.vdproj", "{4FAD904F-1DE8-4649-A131-B0379D30079C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE1653B0-605B-450A-A6BE-C36CA1921B86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE1653B0-605B-450A-A6BE-C36CA1921B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE1653B0-605B-450A-A6BE-C36CA1921B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE1653B0-605B-450A-A6BE-C36CA1921B86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FAD904F-1DE8-4649-A131-B0379D30079C}.Debug|Any CPU.ActiveCfg = Debug
+		{4FAD904F-1DE8-4649-A131-B0379D30079C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02691D7B-A053-4F73-BD26-488E32E0A629}
+	EndGlobalSection
+EndGlobal
